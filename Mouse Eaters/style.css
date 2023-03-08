@@ -1,0 +1,20 @@
+@import url(./Composants/header.css);
+@import url(./Composants/decription.css);
+@import url(./Composants/promotion.css);
+@import url(./Composants/contenu.css);
+@import url(./Composants/photo-content.css);
+@import url(./Composants/gameplay.css);
+@import url(./Composants/donation.css);
+@import url(./Composants/footer.css);
+
+a{
+    text-decoration: none;
+    color: black;
+}
+html{
+    scroll-behavior: smooth;
+}
+.espace{
+    margin-left: 30px;
+    margin-right: 30px;
+}

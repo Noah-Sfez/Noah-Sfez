@@ -1,0 +1,20 @@
+.description{
+    display: flex;
+    background-color: antiquewhite;
+    padding: 2%;
+}
+
+
+.logo-ms{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 2px solid black;
+    box-shadow: 0 0 20px;
+}
+
+.description-txt{
+    font-weight: bold;
+    font-size: x-large;
+    line-height: 1.5;
+}

@@ -1,0 +1,100 @@
+header{
+    background-image: url(../images/Prédateurs.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.logo{
+    width: 220px;
+}
+.name{
+    display: flex;
+}
+.nav{
+    display: flex;
+    margin-left: 1000px;
+    font-size: x-large;
+    gap: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    height: 60px;
+    padding: 20px;
+    border-radius: 50px;
+    align-items: center;
+}
+.nav a{
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    background-color: white;
+    padding: 5px;
+    border-radius: 50px;
+    font-size: x-large;
+    transition: 0.8s;
+}
+.nav a:hover{
+    padding: 15px;
+}
+h1{
+    font-size: 110px;
+    background-color: rgba(0, 0, 0,0.5);
+    color: white;
+    display: flex;
+    justify-content: center;
+    width: 720px;
+    border-radius: 20px;
+    font-family: 'Acme', sans-serif;
+}
+.presentation{
+    margin-left: 130px;
+}
+.presentation h3{
+    font-family: 'Acme', sans-serif;
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    width: 800px;
+    color: white;
+}
+.presentation p{
+    color: white;
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+}
+.pres{
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 800px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.button-pres{
+    margin-top: 80px;
+    margin-left: 200px;
+}
+
+.button-dec{
+    font-size: xx-large;
+    background-color: rgba(255, 0, 0, 0.781);
+    color: white;
+    padding: 15px;
+    border-radius: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: 0.5s;
+}
+.button-dec:hover{
+    background-color: rgba(88, 0, 0, 0.781);
+}
+.button-cont{
+    font-size: xx-large;
+    background-color: rgba(255, 0, 0, 0.781);
+    color: white;
+    padding: 15px;
+    border-radius: 50px;
+    margin-left: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    transition: 0.5s;
+}
+.button-cont:hover{
+    background-color: rgba(88, 0, 0, 0.781);
+}

@@ -1,0 +1,202 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.donate{
+  background-image: url(../images/donation-picture.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.title-don{
+  display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    font-size: x-large;
+}
+
+#donation-cards {
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 40px;
+}
+
+.card {
+  border: 4px solid #000000;
+  box-shadow: 20px 20px 40px rgba(0, 0, 0, 0.4);
+  border-radius: 20px;
+  width: 200px;
+  padding: 10px;
+  font-size: large;
+  transition: 0.6s;
+}
+.card:hover{
+  padding: 20px;
+}
+.card h3 {
+  text-align: center;
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+.card h5{
+  text-align: center;
+  font-weight: bold;
+  font-size: larger;
+}
+.card .btn {
+  display: block;
+  margin: 0 auto;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  background-color: #6ea2c5;
+  color: white;
+  cursor: pointer;
+  font-size: larger;
+}
+
+.card .btn:hover {
+  background-color: #2980b9;
+}
+
+.dix{
+  background-color: rgb(255, 193, 113);
+}
+.vingt{
+  background-color: rgb(21, 216, 21);
+}
+.cinquante{
+  background-color: rgb(0, 153, 255);
+}
+.cent{
+  background-color: #ff1ba8;
+}
+
+#container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+#progress-wrapper {
+  width: 100%;
+  height: 30px;
+  background-color: #eee;
+  box-shadow: 20px 20px 40px rgba(0, 0, 0, 0.4);
+  margin-top: 20px;
+  position: relative;
+  border-radius: 20px;
+}
+
+#progress {
+  height: 100%;
+  background-color: #3498db;
+  width: 0%;
+  border-radius: 15px;
+}
+
+#current-amount {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 1.8em;
+  font-weight: bold;
+}
+
+/* Modal CSS */
+#modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  /*overflow-x: auto; /* Enable scroll if needed */
+  background-color: rgb(0, 0, 0); /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */
+}
+
+/* Modal Content/Box */
+#modal-content {
+  display: flex;
+  flex-direction: column;
+  background-color: #9b4848;
+  margin: 15% auto; /* 15% from the top and centered */
+  padding: 20px;
+  border: 1px solid #888;
+  width: 40%;
+  height: 60%;
+  font-size: large; /* Could be more or less, depending on screen size */
+  border-radius: 20px;
+}
+#modal-content h2{
+  display: flex;
+  justify-content: center;
+  font-size: xx-large;
+  color: white;
+}
+#modal-content form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#modal-content label{
+  font-size: x-large;
+  font-weight: bold;
+  margin-bottom: 5px;
+  color: white;
+}
+#modal-content input{
+  width: 40%;
+  height: 30px;
+  gap: 20px;
+  border-radius: 5px;
+  border: 2px solid black;
+}
+#email{
+  margin-bottom: 20px;
+}
+#name{
+  margin-bottom: 20px;
+}
+#amount{
+  margin-bottom: 20px;
+}
+.valider{
+  font-size: x-large;
+  font-weight: bold;
+  margin-top: 20px;
+  border-radius: 30px;
+  background-color: rgb(67, 182, 67);
+  color: white;
+  padding: 10px;
+}
+.valider:hover{
+  background-color: green;
+  cursor: pointer;
+}
+/* Close Button */
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}

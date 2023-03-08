@@ -1,0 +1,27 @@
+.contenu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(82, 82, 223);
+    justify-content: space-around;
+    gap: 20px;
+    padding: 20px;
+    margin-top: 20px;
+}
+.boite{
+    width: 500px;
+}
+.contenu-txt{
+    font-size: x-large;
+    width: 800px;
+    color: white;
+}
+.contenu-txt h3{
+    display: flex;
+    justify-content: center;
+    text-decoration: underline;
+    box-shadow: 0 0 20px;
+}
+.carroussel{
+    width: 400px;
+}

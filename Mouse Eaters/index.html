@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Mouse Eaters</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Acme&display=swap" rel="stylesheet">
+    <link rel="icon" type="image/png" href="./images/mouse-icone.ico" sizes="64x64">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header id="head">
+        <div class="name">
+            <img src="./images/logo mouse eaters.png" alt="Logo Mouse Eaters" class="logo">
+            <div class="nav">
+                <h4>Félix Duthion</h4>
+                <h4>Noah Sfez</h4>
+                <h4>Céline Tiv</h4>
+                <a href="#pag-don" class="btn-don">Donation</a>
+            </div>
+        </div>
+        <div class="presentation">
+            <h1>Mouse Eaters</h1>
+            <div class="pres">
+                <h3>Mangez toutes les souris sans vous faire attraper !</h3>
+                <p>Bientôt disponible dans tous vos magasins proches de chez vous.</p>
+            </div>
+            <div class="button-pres">
+                <a href="#goom" class="button-dec">Découvrir</a>
+                <a href="#con" class="button-cont">Contenu</a>
+            </div>
+        </div>
+    </header>
+    <main>
+        <div class="espace">
+            <div class="promotion">
+                <p class="prom-txt">Dans MOUSE EATERS, vous incarnez un prédateur affamé qui se retrouve dans une forêt infestée de souris. Votre objectif est donc de manger un maximum de souris mais attention... leur nombre est limité et vous n'êtes pas seul(e) à les chasser... </p>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/nNbJy8dxmDo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <p>En effet, chaque joueur ou joueuse peut blesser ses adversaires jusqu'à potentiellement les éliminer... Faites alors attention à la fourberie des autres prédateurs...</p>
+            </div>
+            <div class="contenu" id="con">
+                <section class="contenu-txt">
+                    <h3>Contenu de la Boîte</h3>
+                    <p>La boîte comporte 4 pions pour un maximum de 4 joueurs. 
+                        On y retrouve le plateau de MOUSE EATERS, les jetons "Souris", "Lapin d'Or" ainsi que les jetons "Points de Vie". Il y'a également 2 paquets de cartes.
+                    </p>
+                </section>
+                <img src="./images/boite de jeu Mouse Eaters.png" alt="Boîte de Jeu" class="boite">
+            </div>
+            <div class="photo-content">
+                <h4>Voici les visuels des cartes présentes dans le jeu. </h4>
+                <div class="carousel">
+                    <div class="slides">
+                      <img src="./images/img/image00001.png" alt="">
+                      <img src="./images/img/image00002.png" alt="">
+                      <img src="./images/img/image00003.png" alt="">
+                      <img src="./images/img/image00004.png" alt="">
+                      <img src="./images/img/image00005.png" alt="">
+                      <img src="./images/img/image00006.png" alt="">
+                      <img src="./images/img/image00007.png" alt="">
+                      <img src="./images/img/image00008.png" alt="">
+                      <img src="./images/img/image00009.png" alt="">
+                      <img src="./images/img/image00010.png" alt="">
+                      <img src="./images/img/image00011.png" alt="">
+                    </div>
+                    <button class="prev">Précédent</button>
+                    <button class="next">Suivant</button>
+                  </div>
+            </div>
+            <div class="gameplay" id="goom">
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/W2scfFl2Xb8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <section class="game-txt">
+                    <h3>Gameplay du Jeu</h3>
+                    <p>Une partie de Mouse Eaters dure environ 15 minutes et peut se jouer de 2 à 4 joueurs. Le jeu est disponible pour les enfants à partir de 7 ans.</p>
+                </section>
+            </div>
+        </div>
+        <div class="donate" id="pag-don">
+            <div class="title-don">
+                <h2>Aidez-nous !</h2>
+                <h4>Faites un don pour nous aider à réaliser ce projet !</h4>
+            </div>
+            <div id="donation-cards">
+                <div class="card dix">
+                <h3>10€</h3>
+                <h5>Une boîte de jeu offerte</h5>
+                <button class="btn" data-amount="10">Donner 10€</button>
+                </div>
+                <div class="card vingt">
+                <h3>20€</h3>
+                <h5>Boîte de jeu + stickers exclusifs</h5>
+                <button class="btn" data-amount="20">Donner 20€</button>
+                </div>
+                <div class="card cinquante">
+                <h3>50€</h3>
+                <h5>Boîte de jeu + Stickers + Dessin personnalisés</h5>
+                <button class="btn" data-amount="50">Donner 50€</button>
+                </div>
+                <div class="card cent">
+                <h3>100€</h3>
+                <h5>All invclusive + Exclusivité sur le prochain Mouse Eaters</h5>
+                <button class="btn" data-amount="100">Donner 100€</button>
+                </div>
+            </div>
+            <div id="container">
+            <div id="progress-wrapper">
+                <div id="progress"></div>
+            </div>
+            <div id="current-amount">0€ sur 1000€</div>
+            </div>
+            <div id="modal">
+            <div id="modal-content">
+                <span class="close">&times;</span>
+                <h2>Confirmer le don</h2>
+                <form>
+                <label for="name">Nom</label>
+                <input type="text" id="name" required />
+        
+                <label for="email">Email</label>
+                <input type="email" id="email" required />
+        
+                <label for="amount">Montant du don</label>
+                <input type="number" id="amount" readonly required />
+        
+                <button type="submit" class="valider">Confirmer</button>
+                </form>
+            </div>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <div class="bas">
+            <div class="logo-footer">
+                <img src="./images/logo mouse eaters.png" alt="logo Mouse Eaters" class="log">
+                <a href="#head">Mouse Eaters</a>
+            </div>
+            <div class="conditions">
+                <a href="#">Mentions Légales</a>
+                <a href="#">Contact</a>
+            </div>
+        </div>
+    </footer>
+    <script src="./app.js"></script>
+</body>
+</html>

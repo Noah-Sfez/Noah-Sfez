@@ -1,0 +1,61 @@
+.photo-content{
+    background-image: url(../images/contenu-Mouse\ Eaters.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 20px;
+    padding-top: 80px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 70px;
+    display: flex;
+    align-items: center;
+}
+.photo-content h4{
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    width: 400px;
+    margin-left: 570px;
+}
+
+.carousel {
+    position: relative;
+    width: 250px;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+  
+  .slides {
+    display: flex;
+    width: calc(250px * 11);
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  img {
+    width: 250px;
+    height: auto;
+    object-fit: cover;
+  }
+  
+  .prev,
+  .next {
+    position: absolute;
+    top: 5%;
+    transform: translateY(-50%);
+    padding: 5px;
+    font-size: 1rem;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.6);
+    border: none;
+    border-radius: 10px;
+    outline: none;
+    cursor: pointer;
+  }
+  
+  .prev {
+    left: 0;
+  }
+  
+  .next {
+    right: 0;
+  }
