@@ -20,8 +20,4 @@ Mais je vais acquérir davantage de compétences 🚀
 
 ## Statistiques GitHub
 
-![Statistiques GitHub](lien_vers_vos_statistiques_github.png)
 
-## Licence
-
-Ce projet est sous licence [Nom de la licence](lien_vers_la_licence).
