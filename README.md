@@ -17,7 +17,6 @@ Mais je vais acquérir davantage de compétences dans l'année qui arrive🚀
 ## Contact
 
 - Adresse e-mail : [sfz.noah@gmail.com]
-- Linkedin : [@Noah Sfez](https://www.linkedin.com/in/noahsfez/)
 <a href="https://www.linkedin.com/in/noahsfez/">
   <img src="./image/LinkedIn_icon.svg.png" alt="img_linkedin" width="50" height="50">
 </a>
