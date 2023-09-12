@@ -2,6 +2,8 @@
 
 ![banniere](./image/𝗕𝗟𝗢𝗢𝗗%20𝗧𝗜𝗘%20_%20Corte%20de%20Espinhos%20e%20Rosas%20¹.gif)
 
+<img src="./image/𝗕𝗟𝗢𝗢𝗗 𝗧𝗜𝗘 _ Corte de Espinhos e Rosas ¹.gif" style="display: flex; justify-content: center;">
+
 
 # **Bonjour tout le monde 👋**
 
