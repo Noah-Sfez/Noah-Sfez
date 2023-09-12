@@ -32,6 +32,6 @@ Mais je vais acquérir davantage de compétences dans l'année qui arrive🚀
 
 ## Statistiques GitHub
 
-[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/apiNoah-Sfezanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
