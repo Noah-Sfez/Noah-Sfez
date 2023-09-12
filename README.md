@@ -18,7 +18,9 @@ Mais je vais acquérir davantage de compétences dans l'année qui arrive🚀
 
 - Adresse e-mail : [sfz.noah@gmail.com]
 - Linkedin : [@Noah Sfez](https://www.linkedin.com/in/noahsfez/)
-
+[![img_linkedin](./image/LinkedIn_icon.svg.png)](https://www.linkedin.com/in/noahsfez/)
 ## Statistiques GitHub
+
+[![Les Stats GitHub de Anurag](https://github-readme-stats.vercel.app/apiNoah-Sfezanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
