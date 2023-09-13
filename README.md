@@ -3,6 +3,7 @@
 ![banniere](./image/𝗕𝗟𝗢𝗢𝗗%20𝗧𝗜𝗘%20_%20Corte%20de%20Espinhos%20e%20Rosas%20¹.gif)
 
 
+![view](https://komarev.com/ghpvc/?username=Noah-Sfez)
 # **Bonjour tout le monde 👋**
 
 Bienvenue sur mon profil GitHub ! Je suis Noah Sfez, actuellement 📝étudiant📝 en 2ème année à l'IIM Digital School !
