@@ -30,7 +30,6 @@ Mais je vais acquérir davantage de compétences dans l'année qui arrive🚀
 </a>
 
 
-## Statistiques GitHub
 
 
 
