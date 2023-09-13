@@ -29,7 +29,7 @@ Mais je vais acquérir davantage de compétences dans l'année qui arrive🚀
   <img src="./image/LinkedIn_icon.svg.png" alt="img_linkedin" width="50" height="50">
 </a>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noah-Sfez&layout=compact)
 
 
 
