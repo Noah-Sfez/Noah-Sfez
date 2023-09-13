@@ -3,7 +3,7 @@
 ![banniere](./image/𝗕𝗟𝗢𝗢𝗗%20𝗧𝗜𝗘%20_%20Corte%20de%20Espinhos%20e%20Rosas%20¹.gif)
 
 
-![view](https://komarev.com/ghpvc/?username=Noah-Sfez)
+![view](https://komarev.com/ghpvc/?username=Noah-Sfez&color=red)
 # **Bonjour tout le monde 👋**
 
 Bienvenue sur mon profil GitHub ! Je suis Noah Sfez, actuellement 📝étudiant📝 en 2ème année à l'IIM Digital School !
@@ -13,7 +13,9 @@ Bienvenue sur mon profil GitHub ! Je suis Noah Sfez, actuellement 📝étudiant�
 
 Je suis en apprentissage dans le développement web 🌐 J'ai actuellement des compétences en HTML | CSS | JavaScript | PHP 
 
-Mais je vais acquérir davantage de compétences dans l'année qui arrive🚀 
+Mais je vais acquérir davantage de compétences dans l'année qui arrive🚀
+
+![Stats](https://github-stats-alpha.vercel.app/api?username=Noah-Sfez&cc=000&tc=fff&ic=fff&bc=000)
 
 ## Projets
 
@@ -23,6 +25,8 @@ Mais je vais acquérir davantage de compétences dans l'année qui arrive🚀
 
 - [Site pour jeu de société](https://github.com/Noah-Sfez/Mouse-Eaters) - *Réalisation d'un site pour un jeu de société que j'ai créé avec une équipe lors de l'Epic Digital Day dans mon école :bulb: Le site n'est pas responsive et n'est destiné qu'au format ordinateur :technologist:*
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noah-Sfez&layout=compact)
+
 ## Contact
 
 - Adresse e-mail : [sfz.noah@gmail.com]
@@ -30,9 +34,9 @@ Mais je vais acquérir davantage de compétences dans l'année qui arrive🚀
   <img src="./image/LinkedIn_icon.svg.png" alt="img_linkedin" width="50" height="50">
 </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noah-Sfez&layout=compact)
 
-![stats](https://github-stats-alpha.vercel.app/api?username=Noah-Sfez)
+
+
 
 
 
