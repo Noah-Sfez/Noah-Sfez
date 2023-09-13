@@ -31,6 +31,8 @@ Mais je vais acquérir davantage de compétences dans l'année qui arrive🚀
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noah-Sfez&layout=compact)
 
+![stats](https://github-stats-alpha.vercel.app/api?username=Noah-Sfez)
+
 
 
 
