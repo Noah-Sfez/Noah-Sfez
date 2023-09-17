@@ -11,8 +11,10 @@ Bienvenue sur mon profil GitHub ! Je suis Noah Sfez, actuellement 📝étudiant�
 
 ## À propos de moi
 
-Je suis en apprentissage dans le développement web 🌐 J'ai actuellement des compétences en HTML | CSS | JavaScript | PHP 
-
+Je suis en apprentissage dans le développement web 🌐 J'ai actuellement des compétences en :
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
 Mais je vais acquérir davantage de compétences dans l'année qui arrive🚀
 
 ![Stats](https://github-stats-alpha.vercel.app/api?username=Noah-Sfez&cc=000&tc=fff&ic=fff&bc=000)
