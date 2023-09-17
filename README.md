@@ -12,9 +12,11 @@ Bienvenue sur mon profil GitHub ! Je suis Noah Sfez, actuellement 📝étudiant�
 ## À propos de moi
 
 Je suis en apprentissage dans le développement web 🌐 J'ai actuellement des compétences en :
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
-https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
 Mais je vais acquérir davantage de compétences dans l'année qui arrive🚀
 
 ![Stats](https://github-stats-alpha.vercel.app/api?username=Noah-Sfez&cc=000&tc=fff&ic=fff&bc=000)
@@ -31,7 +33,6 @@ Mais je vais acquérir davantage de compétences dans l'année qui arrive🚀
 
 ## Contact
 
-- Adresse e-mail : [sfz.noah@gmail.com]
 <a href="https://www.linkedin.com/in/noahsfez/">
   <img src="./image/LinkedIn_icon.svg.png" alt="img_linkedin" width="50" height="50">
 </a>
