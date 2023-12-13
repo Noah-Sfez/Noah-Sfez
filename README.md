@@ -23,8 +23,6 @@ J'ai actuellement des compétences en :
 
 Mais je vais acquérir davantage de compétences dans l'année qui arrive🚀
 
-![Stats](https://github-stats-alpha.vercel.app/api?username=Noah-Sfez&cc=000&tc=fff&ic=fff&bc=000)
-
 ## Projets
 
 - [NosaCoach](https://nosacoach.com/) - *Réalisation d'un site internet pour une conseillère en image 💄*
