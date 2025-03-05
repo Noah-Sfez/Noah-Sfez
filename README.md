@@ -79,17 +79,7 @@ Currently, my focus is on **leading projects** while maintaining strong technica
 <a href="https://github.com/Noah-Sfez">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>  
-<a href="mailto:sf.noah@gmail.com">
+<a href="mailto:sfz.noah@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>  
-
----
-
-### **🔥 Key Improvements:**  
-✅ **More professional & polished presentation**  
-✅ **Emphasis on project management & tech expertise**  
-✅ **Updated tech stack (aligned with your CV)**  
-✅ **Stronger focus on professional experiences over school projects**  
-
----
 
